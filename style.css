@@ -1,0 +1,19 @@
+#drop {
+	width: 300px;
+	height: 100px;
+	padding: 20px;
+	margin: 10px 0;
+	background: #55f;
+	color: white;
+}
+
+#images {
+	margin: 10px 0;
+	padding: 0px 5px;
+	border: 1px solid #ccc;
+}
+#images img {
+	max-height: 200px;
+	max-width: 200px;
+	margin: 10px 5px;
+}
